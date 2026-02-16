@@ -33,7 +33,7 @@ Let's wait a bit until our network is full of LfOx:
 
 Now let's bring some vessel that really really **REALLY WANTS SOME FUEL**:
 
-<iframe allowfullscreen="true" frameborder="0" height="344" src="https://www.youtube.com/embed/G1cjHbXdU0s?feature=oembed" width="459" style="box-sizing: border-box; position: absolute; top: 0px; left: 0px; width: 1024px; height: 601px;"></iframe>
+<iframe allowfullscreen="true" frameheight="344" src="https://www.youtube.com/embed/G1cjHbXdU0s?feature=oembed" width="459" style="box-sizing: border-box; position: absolute; top: 0px; left: 0px; width: 1024px; height: 601px;"></iframe>
 
 [![Zct1C5Q.png](https://i.imgur.com/Zct1C5Q.png)](https://i.imgur.com/Zct1C5Q.png)
 

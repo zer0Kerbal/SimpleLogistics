@@ -30,7 +30,7 @@ has been translated into the following languages:
 * ![Русский][RU] Russian (Русский) <ru.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
-* ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>  
 
@@ -63,4 +63,4 @@ has been translated into the following languages:
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
 
-this file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
