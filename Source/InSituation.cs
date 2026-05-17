@@ -107,7 +107,7 @@ namespace SimpleLogistics
         internal static double InSpeed(Vessel vessel)
         {
 
-            if (HighLogic.CurrentGame.Parameters.CustomParams<OptionsC>().maxDistance == 0f 
+            if (HighLogic.CurrentGame.Parameters.CustomParams<OptionsC>().maxGroundSpeed == 0f
                 || vessel.srfSpeed <= HighLogic.CurrentGame.Parameters.CustomParams<OptionsC>().maxGroundSpeed) return 0f;
             else return vessel.srfSpeed;
         }
@@ -160,7 +160,7 @@ namespace SimpleLogistics
                     if (!HighLogic.CurrentGame.Parameters.CustomParams<OptionsB>().yesEscaping) return Localizer.Format("#SLOG-msgSituation", Localizer.Format("#SLOG-Escaping"));
                     break;
                 case Vessel.Situations.DOCKED:
-                    if (!HighLogic.CurrentGame.Parameters.CustomParams<OptionsB>().yesLanded) return Localizer.Format("#SLOG-msgSituation", Localizer.Format("#SLOG-Docked"));
+                    if (!HighLogic.CurrentGame.Parameters.CustomParams<OptionsB>().yesDocked) return Localizer.Format("#SLOG-msgSituation", Localizer.Format("#SLOG-Docked"));
                     break;
             }
             return String.Empty;
